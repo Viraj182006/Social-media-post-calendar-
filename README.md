@@ -78,4 +78,8 @@ By combining **ChatGPT’s creativity** and **Google Bard’s real-time data**, 
 
 *(Word Count: 400+)*### **Creating a Social Media Posting Calendar Using AI (ChatGPT & Google Bard)**  
 
-In today’s fast-paced digital landscape, maintaining a consistent and engaging social media presence is crucial—but manually planning content can be time-consuming. By leveraging **AI tools like ChatGPT and Google Bard**, I streamlined the process of building an **effective social media posting calendar**. Here’s how I did it: 
+In today’s fast-paced digital landscape, maintaining a consistent and engaging social media presence is crucial—but manually planning content can be time-consuming. By leveraging **AI tools like ChatGPT and Google Bard**, I streamlined the process of building an **effective social media posting calendar**. Here’s how I did it:
+
+**Output** 
+
+![Image](https://github.com/user-attachments/assets/e49eb6ba-e727-4dfb-ae56-10e8ac9f63f0) 
